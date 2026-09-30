@@ -13,4 +13,7 @@ def heat_index(temp: float, humidity: float) -> float:
 
 #help(heat_index)
     
+def hello(Name:str):
+
+    return Name
 
