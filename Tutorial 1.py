@@ -18,4 +18,5 @@ def hello(Name:str):
 
 hello("Baylen")
 
+hello("Orion")
 
