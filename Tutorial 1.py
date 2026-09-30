@@ -15,5 +15,7 @@ def heat_index(temp: float, humidity: float) -> float:
 
 def hello(Name:str):
     return Name
-    
+
+hello("Baylen")
+
 
